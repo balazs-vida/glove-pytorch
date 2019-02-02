@@ -2,4 +2,4 @@ Implementation of the [GloVe model](https://nlp.stanford.edu/projects/glove/) in
 
 #### Based on:
 - [2014mchidamb's implementation](https://github.com/2014mchidamb/TorchGlove/blob/master/glove.py)
-- [the test functions by Practical PyTorch](https://github.com/spro/practical-pytorch/blob/master/glove-word-vectors/glove-word-vectors.ipynb)
+- [the test functions of Practical PyTorch](https://github.com/spro/practical-pytorch/blob/master/glove-word-vectors/glove-word-vectors.ipynb)
